@@ -2,9 +2,9 @@
 
 A simple tool for searching for a string and then searching for a second string after the first one is found. 
 
-C++ version  [C++ Version](https://github.com/adamb3ll/fileparser)
+[C++ Version](https://github.com/adamb3ll/fileparser)
 
-Python version  [Python Version](https://github.com/adamb3ll/fileparser_python)
+[Python Version](https://github.com/adamb3ll/fileparser_python)
 
 ```
 fileparser [optional: -verbose] [inputfile] ["first search string"] ["second search string"]
